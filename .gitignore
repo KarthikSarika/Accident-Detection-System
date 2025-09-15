@@ -1,0 +1,5 @@
+*.ipynb_checkpoints
+*__pycache__
+/cars.mp4
+/model_weights.h5
+.env

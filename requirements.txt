@@ -1,0 +1,9 @@
+numpy
+pandas
+matplotlib
+tensorflow
+keras
+opencv-python
+python-dotenv
+twilio
+simpleaudio
